@@ -1,8 +1,6 @@
 Hello World !
 Keep going
-<<<<<<< HEAD
 Good afternoon
 modif via master
-=======
 modif branch070
->>>>>>> b070
+modif b080
